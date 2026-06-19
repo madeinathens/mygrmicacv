@@ -2,6 +2,8 @@
 **Coinbase Verified ID:** `ethclay.base.eth`  
 📍 Αθήνα, Ελλάδα
 
+📝 [English version](https://github.com/madeinathens/myenmicacv)
+
 ---
 
 ## ΠΕΡΙΛΗΨΗ
